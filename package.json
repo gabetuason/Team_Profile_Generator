@@ -1,0 +1,27 @@
+{
+  "name": "team_profile_generator",
+  "version": "1.0.0",
+  "description": "A command-line application that takes in information about employees on an engineering team and generates an HTML webpage that displays summaries for each person.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabetuason/Team_Profile_Generator.git"
+  },
+  "keywords": [
+    "team",
+    "profile",
+    "generator"
+  ],
+  "author": "Gabriel Tuason",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabetuason/Team_Profile_Generator/issues"
+  },
+  "homepage": "https://github.com/gabetuason/Team_Profile_Generator#readme"
+}
