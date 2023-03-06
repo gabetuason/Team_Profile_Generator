@@ -28,7 +28,7 @@ After installing the required files above, in your prefered command terminal you
 For more help on usage, please view screenshot and video demonstration.
 ![screenshot](https://github.com/gabetuason/Team_Profile_Generator/blob/main/images/makingMyTeam.JPG)
 
-Video: 
+Video:  https://watch.screencastify.com/v/ISLWg5jJJbl9BDirkqsK
 
 ## License
 
