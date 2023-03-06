@@ -1,0 +1,23 @@
+/*Additional Styling & Flex Wrap for card */
+
+/* Universal Selectors */
+body {
+background-color: antiquewhite;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+ color: darkblue;
+}
+
+/* Class Selectors */
+.team-area {
+    flex-wrap: wrap;
+}
+
+.employee-card {
+    width: 300px;
+    margin: 1%;
+    background-color: lightgrey;
+}
+
