@@ -18,7 +18,7 @@ This is a command-line application that takes in information about employees on 
 
 ## Installation
 
-Assure that node.js is installed preferably version 16 (stable), found on https://nodejs.org/en/download/. To make sure the application is running correctly, the user needs to install two packages, namely inquirer version 8.2.4 and email-validator. To install these packages, the user should run the following commands in the terminal: `npm i inquirer@8.2.4` and `npm i email-validator`. When installing, it is important that you are in the correct directory (develop) otherwise issues may transpire.
+Assure that node.js is installed preferably version 16 (stable), found on https://nodejs.org/en/download/. To make sure the application is running correctly, the user needs to install two packages, namely inquirer version 8.2.4 and email-validator. To install these packages, the user should run the following commands in the terminal: `npm i inquirer@8.2.4` and `npm i email-validator`. When installing, it is important that you are in the correct directory otherwise issues may transpire.
 
 ## Usage
 
@@ -26,7 +26,7 @@ After installing the required files above, in your prefered command terminal you
 
 
 For more help on usage, please view screenshot and video demonstration.
-![screenshot]()
+![screenshot](https://github.com/gabetuason/Team_Profile_Generator/blob/main/images/makingMyTeam.JPG)
 
 Video: 
 
@@ -42,7 +42,7 @@ This is an open source application, feel free to use this for projects README.md
 
 During use, the generator should have node_modules and package-lock.json added in the file directory. To see if application processed accordingly there should be a HTML file `myteamProfile.html` (output on `dist`). In order to test the parent class Employee, and its extended child classes Manager, Engineer and Intern. You can use `npm test`! The test suite verifies whether the instances of each class are constructed correctly with the intended data type and format. It also checks if the method functions of the classes behave as expected. Install jest `npm install --save-dev jest`. 
 
-![screenshot]()
+![screenshot](https://github.com/gabetuason/Team_Profile_Generator/blob/main/images/screenshotTests.JPG)
   
 ## Questions
 
