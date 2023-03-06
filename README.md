@@ -36,7 +36,7 @@ The project is licensed under: MIT License. To see the license permissions for c
 
 ## Contributing
 
-This is an open source application, feel free to use this for projects README.md files. It is important to mention me as a contributor for distribution or modifications.
+This is an open source application, feel free to use this for projects. It is important to mention me as a contributor for distribution or modifications.
   
 ## Tests
 
